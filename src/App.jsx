@@ -1,12 +1,12 @@
 import "./App.css";
+import CounterValue from "./feature/countValue";
 
 function App() {
   return (
     <>
       <div>
-        <h1 className="text-center font-semibold text-2xl">
-          Learn Redux Toolkit
-        </h1>
+        
+        <CounterValue />
       </div>
     </>
   );
