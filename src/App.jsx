@@ -22,7 +22,7 @@ function App() {
     <>
       <div className="bg-gray-200 flex justify-center  h-screen items-center w-full px-5 flex-col">
         <div className="text-center pb-10">
-          <div className="text-2xl font-bold">count {count}</div>
+          <div className="text-2xl font-bold">Count Value {count}</div>
         </div>
         <CounterValue />
       </div>
